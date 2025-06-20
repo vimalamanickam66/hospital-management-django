@@ -1,11 +1,6 @@
 **Home Page**
-![image](https://github.com/Karthikg1908/Hospital-Management-System/assets/86306862/9c96ffcb-2bef-484b-a996-548fde802a26)
-![image](https://github.com/Karthikg1908/Hospital-Management-System/assets/86306862/f960b36c-a726-4e02-8416-0284d2f1f9e9)
-![image](https://github.com/Karthikg1908/Hospital-Management-System/assets/86306862/4c583894-e124-4606-a971-c9925bdf23ad)
+![image](https://github.com/vimalamanickam66/hospital-management-django/blob/466348b4d86620db84dd1e0d3d20f8ebefc62e28/loginpage.png)
 
-**Admin Login Page**
-
-![image](https://github.com/Karthikg1908/Hospital-Management-System/assets/86306862/52b69f80-9912-418b-b6e0-df47c4c2447c)
 
 **Admin Dashboard**
 
